@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+*
+{
+  box-sizing : border-box;
+  margin : 0;
+  padding : 0;
+}
+
+p
+{
+  display : inline-block;
+  margin : 0 1rem 1rem 0;
+  padding : 0;
+}

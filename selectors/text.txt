@@ -1,0 +1,81 @@
+<a> Define um hiperlink.
+<article> Define um conteúdo autônomo.
+<aside> Define conteúdo de barra lateral.
+<body> Contém o conteúdo visível da página.
+<button> Cria um botão.
+<canvas> Cria uma área para desenho gráfico.
+<div> Um elemento genérico para agrupar e estilizar conteúdo.
+<em> Define texto enfatizado.
+<footer> Define o rodapé de uma seção ou página.
+<form> Cria um formulário para entrada de dados.
+<h1> Cabeçalhos de títulos, do maior (h1) ao menor (h6).
+<h2> Cabeçalhos de títulos, do maior (h1) ao menor (h6).
+<h3> Cabeçalhos de títulos, do maior (h1) ao menor (h6).
+<h4> Cabeçalhos de títulos, do maior (h1) ao menor (h6).
+<h5> Cabeçalhos de títulos, do maior (h1) ao menor (h6).
+<h6> Cabeçalhos de títulos, do maior (h1) ao menor (h6).
+<head> Contém informações do cabeçalho, como metadados, títulos e links para estilos e scripts.
+<header> Define o cabeçalho de uma seção ou página.
+<hr> Cria uma linha horizontal.
+<html> Elemento raiz que envolve todo o conteúdo HTML.
+<iframe> Inclui um frame embutido em uma página.
+<img> Exibe uma imagem.
+<input> Define um campo de entrada em um formulário.
+<label> Rótulo associado a um elemento de formulário.
+<li> Define um item de lista em listas ordenadas ou não ordenadas.
+<link> Define relações entre o documento atual e recursos externos, como folhas de estilo.
+<main> Define o conteúdo principal de uma página.
+<meta> Fornecer metadados sobre o documento, como a codificação de caracteres e a descrição.
+<option> Define uma opção em uma lista suspensa.
+<p> Define um parágrafo de texto.
+<script> Inclui scripts JavaScript diretamente no documento HTML.
+<section> Define uma seção de conteúdo.
+<select> Define uma lista suspensa em um formulário.
+<style> Inclui estilos CSS diretamente no documento HTML.
+<table> Cria uma tabela.
+<td> Define uma célula de dados em uma tabela.
+<textarea> Define uma área de texto em um formulário.
+<th> Define um cabeçalho de tabela.
+<title> Define o título da página que aparece na barra de título do navegador.
+<tr> Define uma linha em uma tabela.
+<ul> Cria uma lista não ordenada.
+<abbr> Define uma abreviação.
+<address> Define informações de contato do autor.
+<audio> Reproduz arquivos de áudio.
+<base> Define uma URL base para recursos relativos à página.
+<blockquote> Define um bloco de citação.
+<br> Insere uma quebra de linha.
+<caption> Define um título para uma tabela.
+<cite> Define o título de uma obra citada.
+<code> Exibe texto como código.
+<dd> Define a definição de um termo em uma lista de definição.
+<del> Define texto deletado.
+<details> Define detalhes ocultáveis.
+<dfn> Define um termo de definição.
+<dl> Cria uma lista de definição.
+<dt> Define um termo em uma lista de definição.
+<fieldset> Agrupa elementos de formulário relacionados.
+<figcaption> Define uma legenda para uma figura.
+<figure> Define conteúdo de mídia com uma legenda.
+<ins> Define texto inserido.
+<kbd> Define entrada de teclado.
+<legend> Define uma legenda para um elemento de formulário agrupado.
+<mark> Marca texto para destaque.
+<meter> Define uma medição escalar.
+<nav> Define links de navegação.
+<ol> Cria uma lista ordenada.
+<pre> Preserva a formatação do texto, como espaços e quebras de linha.
+<progress> Exibe o progresso de uma tarefa.
+<q> Define uma citação curta.
+<samp> Define uma amostra de saída.
+<small> Define texto pequeno.
+<span> Um elemento genérico para aplicar estilos a partes de texto.
+<strong> Define texto importante ou enfatizado.
+<sub> Define texto subscrito.
+<summary> Define um resumo para detalhes ocultável.
+<sup> Define texto sobrescrito.
+<svg> Define gráficos vetoriais escaláveis.
+<time> Define uma data ou hora.
+<var> Define uma variável.
+<video> Reproduz arquivos de vídeo.
+<wbr> Define uma oportunidade de quebra opcional de palavra.
